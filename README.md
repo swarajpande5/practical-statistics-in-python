@@ -10,7 +10,7 @@ This repository contains Python notebooks that cover basic statistics required i
 | 3 | Distributions                         | [Link](https://swarajpande4.github.io/practical-statistics-in-python/static/3%20Distributions.html) |
 | 4 | Confidence Intervals                  | [Link](https://swarajpande4.github.io/practical-statistics-in-python/static/4%20Confidence%20Intervals.html) |
 | 5 | Hypothesis Testing                    | [Link](https://swarajpande4.github.io/practical-statistics-in-python/static/5%20Hypothesis%20Testing) |
-| 6 | Chi-Square Test and ANOVA             |  |
+| 6 | Chi-Square Test and ANOVA             | [Link](https://swarajpande4.github.io/practical-statistics-in-python/static/6%20Chi%20Square%20Test%20and%20ANOVA.html) |
 
 
 ### References
